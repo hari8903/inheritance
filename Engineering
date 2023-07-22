@@ -1,0 +1,9 @@
+package org.edu;
+public class Engineering extends Education {
+	public void bE() {
+		System.out.println("BE fees is 60000");
+	}
+	public void bTech() {
+		System.out.println("BTECH fees is 65000");
+	}
+}

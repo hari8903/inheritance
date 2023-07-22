@@ -1,0 +1,12 @@
+package org.edu;
+public class Medicine extends Education {
+	public void physiyo() {
+		System.out.println("Physiyo fees is 40000");
+	}
+	public void dental() {
+		System.out.println("Dental fees is 45000");
+	}
+	public void mbbs() {
+		System.out.println("MBBS fees is 100000");
+	}
+}

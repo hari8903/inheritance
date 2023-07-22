@@ -1,8 +1,7 @@
 package org.edu;
 public class Education {
 	public Education() {
-		System.out.println("cources offered by the collage");
-		
+		System.out.println("cources offered by the collage");	
 	}
 	public void ug() {
 		System.out.println("ug department");
@@ -24,8 +23,5 @@ public class Education {
 		a.physiyo();
 		a.dental();
 		a.mbbs();
-	
-
 	}
-
 }

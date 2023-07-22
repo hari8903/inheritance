@@ -1,0 +1,15 @@
+package org.edu;
+public class Arts extends Education {
+	public void bsc() {
+		System.out.println("BSC fees is 40000");	
+	}
+	public void bEd() {
+		System.out.println("BED fees is 25000");	
+	}
+	public void bA() {
+		System.out.println("BA fees is 30000");
+	}
+	public void bBA() {
+		System.out.println("bBA fees is 55000");
+	}
+	}
